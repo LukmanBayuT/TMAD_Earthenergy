@@ -24,7 +24,13 @@ class _Materi4State extends State<Materi4> {
     InteractiveViewer(
       child: Container(
         decoration: BoxDecoration(
-            image: DecorationImage(image: AssetImage('materi/24.png'))),
+            image: DecorationImage(image: AssetImage('materi/24.0.png'))),
+      ),
+    ),
+    InteractiveViewer(
+      child: Container(
+        decoration: BoxDecoration(
+            image: DecorationImage(image: AssetImage('materi/24.1.png'))),
       ),
     ),
     InteractiveViewer(
@@ -43,6 +49,12 @@ class _Materi4State extends State<Materi4> {
       child: Container(
         decoration: BoxDecoration(
             image: DecorationImage(image: AssetImage('materi/27.png'))),
+      ),
+    ),
+    InteractiveViewer(
+      child: Container(
+        decoration: BoxDecoration(
+            image: DecorationImage(image: AssetImage('materi/27.1.png'))),
       ),
     ),
     InteractiveViewer(
