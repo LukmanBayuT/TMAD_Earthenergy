@@ -12,7 +12,7 @@ List<QuestionModel> getQuestion() {
       "Gambar dibawah merupakan SDA yang dapat diperbaharui, Benar atau Salah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://images.unsplash.com/photo-1448375240586-882707db888b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80");
+      "https://4.bp.blogspot.com/-zCnKrF5hhWg/WAGF1ovubVI/AAAAAAAAC6w/Bhj8aoZUAMMdLcelB0FS5BH5pNmCEpTMACLcB/s320/jenis%2Btanah%2Bina.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -21,7 +21,7 @@ List<QuestionModel> getQuestion() {
       "Mineral dibawah termasuk yang tidak dapat diperbaharui, Benar atau Salah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://images.unsplash.com/photo-1525857597365-5f6dbff2e36e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80");
+      "https://cdn-cms.pgimgs.com/static/2021/02/4.-PONDASI-BATU-KALI.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -30,7 +30,7 @@ List<QuestionModel> getQuestion() {
       "Mineral dibawah termasuk yang tidak dapat diperbaharui, Benar atau Salah?");
   questionModel.setAnswer("False");
   questionModel.setimageUrl(
-      "https://asset-a.grid.id//crop/0x0:0x0/700x465/photo/bobofoto/original/18783_serba-serbi-air.jpg");
+      "http://www.steorn.com/wp-content/uploads/2021/03/6-Tambang-Emas-terbesar-di-Indonesia.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -39,7 +39,7 @@ List<QuestionModel> getQuestion() {
       "Ciri ciri Pertanian Berkelanjutan salah satunya adalah LUWES benarkah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://cdn0-production-images-kly.akamaized.net/cdsNgvMNJVOPlbE6j662krXBZaQ=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3583404/original/057039600_1632620754-Pertanian.JPG");
+      "https://keraskulon.ngawikab.id/wp-content/uploads/2019/11/IMG_20191117_082639_8-980x735.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -48,7 +48,7 @@ List<QuestionModel> getQuestion() {
       "Sistem pengelolaan pertambangan yang berkelanjutan harus mampu mencegah dampak dari pencemaran lingkungan, benar atau salah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://www.agincourtresources.com/wp-content/uploads/2019/09/Menangkap-Peluang-Di-Bisnis-Pertambangan-agincourt-resources-perusahan-pertambangan-indonesia.jpg");
+      "https://jurnalpatrolinews.co.id/wp-content/uploads/TAMBANG.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -57,7 +57,7 @@ List<QuestionModel> getQuestion() {
       "Dampak pengelolaan pertambangan yang tidak berkelanjutan salah satuya adalah limbah, Benar atau Salah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://faktualnews-prod.s3.ap-southeast-1.amazonaws.com/images/2018/08/ilustrasi-limbah-cair.jpg");
+      "http://akarpadinews.com/uploads/artikel/artikel1417652968.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -66,7 +66,7 @@ List<QuestionModel> getQuestion() {
       "Industri adalah kegiatan berekonomi yang mengolah hasil hasil perpolitikan, Benar atau Salah?");
   questionModel.setAnswer("False");
   questionModel.setimageUrl(
-      "https://awsimages.detik.net.id/community/media/visual/2017/12/05/9e67ead4-bdd2-4a6f-828e-d0511eb7fb6a_169.jpg?w=700&q=90");
+      "https://jurnalkawasan.com/storage/temp/public/b52/b3d/3cb/5ff90a0030782708594093__900.jpg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -75,7 +75,7 @@ List<QuestionModel> getQuestion() {
       "Partisipasi merupakan prinsip prinsip pariwisata berkelanjutan, Benar atau Salah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://pontas.id/wp-content/uploads/2019/05/wonderful-indonesia.jpg");
+      "https://s3-kemenparekraf.s3.ap-southeast-1.amazonaws.com/Whats_App_Image_2021_04_25_at_4_41_47_PM_2_7d35ee922a.jpeg");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 
@@ -84,7 +84,7 @@ List<QuestionModel> getQuestion() {
       "Penebangan hutan harus serta merta didasari dengan prinsip Ekoefisiensi, Benar atau Salah?");
   questionModel.setAnswer("True");
   questionModel.setimageUrl(
-      "https://img.beritasatu.com/cache/beritasatu/910x580-2/1594352597.jpg");
+      "https://thegorbalsla.com/wp-content/uploads/2018/08/Penebangan-Hutan-300x168.jpg.webp");
   questions.add(questionModel);
   questionModel = new QuestionModel();
 

@@ -58,6 +58,12 @@ class _Materi8State extends State<Materi8> {
             image: DecorationImage(image: AssetImage('materi/59.png'))),
       ),
     ),
+    InteractiveViewer(
+      child: Container(
+        decoration: BoxDecoration(
+            image: DecorationImage(image: AssetImage('materi/35.1.png'))),
+      ),
+    ),
   ];
 
   @override

@@ -63,12 +63,6 @@ class _Materi5State extends State<Materi5> {
             image: DecorationImage(image: AssetImage('materi/35.0.png'))),
       ),
     ),
-    InteractiveViewer(
-      child: Container(
-        decoration: BoxDecoration(
-            image: DecorationImage(image: AssetImage('materi/35.1.png'))),
-      ),
-    ),
   ];
 
   @override

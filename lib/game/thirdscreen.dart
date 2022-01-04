@@ -1,3 +1,4 @@
+import 'package:earthnergy/game/fourthscreen.dart';
 import 'package:earthnergy/game/secondscreen.dart';
 import 'package:earthnergy/views/1.main_menu.dart';
 import 'package:flutter/material.dart';
@@ -97,6 +98,33 @@ class _ResultState extends State<Result> {
                 padding: EdgeInsets.symmetric(vertical: 12, horizontal: 54),
                 child: Text(
                   "Kembali ke Menu Utama",
+                  style: TextStyle(
+                    color: Colors.blue,
+                    fontSize: 15,
+                    fontWeight: FontWeight.normal,
+                  ),
+                ),
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(20),
+                  border: Border.all(
+                    color: Colors.blue,
+                    width: 2,
+                  ),
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 30,
+            ),
+            GestureDetector(
+              onTap: () {
+                Navigator.pushReplacement(context,
+                    MaterialPageRoute(builder: (context) => FourthScreen()));
+              },
+              child: Container(
+                padding: EdgeInsets.symmetric(vertical: 12, horizontal: 54),
+                child: Text(
+                  "Referensi",
                   style: TextStyle(
                     color: Colors.blue,
                     fontSize: 15,
