@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:earthnergy/game/secondscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';

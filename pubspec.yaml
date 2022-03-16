@@ -36,6 +36,7 @@ dependencies:
   html_character_entities: ^1.0.0+1
   imagebutton: ^0.0.6
   meta: ^1.7.0
+  rename: ^2.0.1
   url_launcher: ^6.0.10
   video_player: ^2.1.15
 
